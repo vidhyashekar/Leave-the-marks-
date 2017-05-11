@@ -1,0 +1,22 @@
+.headingFont{
+    font-family: kaushan-script, cursive;
+    font-size: 40px;
+}
+
+.brandFont{
+    font-family: kaushan-script, cursive;
+    font-size: 25px;
+}
+
+.mainLines{
+    font-size:30px;
+}
+
+.menus{
+    font-size:18px;
+}
+
+.sidebar-nav img.img-circle {
+  width: 220px;
+  background: yellow;
+}
